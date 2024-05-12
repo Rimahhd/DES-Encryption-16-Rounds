@@ -1,2 +1,2 @@
-# DES-Encryption-16-Rounds
-Provides Python implementation of DES encryption with CLI version. CLI prompts user for message and key, performing encryption in 16 round.
+# DES-Encryption-Program
+Provides Python implementation of DES encryption with GUI version. The program prompts user for message and key. GUI offers user-friendly interface for input and encryption.
